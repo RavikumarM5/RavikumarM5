@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Online my delight dish**
-
-- 🌱 I’m currently learning **Bootstrap**
+- 🔭 I’m currently working on **Online my delight dish website**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RavikumarM5](https://github.com/RavikumarM5)
 
