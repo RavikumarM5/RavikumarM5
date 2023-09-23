@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RavikumarM5](https://github.com/RavikumarM5)
 
-- 💬 Ask me about **React, Gsap**
-
 - 📫 How to reach me **mangaravikumar7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
